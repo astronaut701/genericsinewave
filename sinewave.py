@@ -3,7 +3,7 @@ import math
 
 x = []
 y = []
-for i in range(100):
+for i in range(200):
     x.append(i)
     y.append(math.sin(2 * math.pi * i / 10))
 
